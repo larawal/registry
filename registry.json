@@ -1,4 +1,10 @@
 {
-  "blog": "https://...",
-  "ecommerce": "https://...",
+  "blog":       "https://...",
+  "blog:dev":   "https://...",
+  "blog:7":     "https://...",
+  
+  "ecommerce":      "https://...",  
+  "ecommerce:food": "https://...",
+  
+  "laravel":        "https://..."
 }
