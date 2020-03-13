@@ -1,10 +1,18 @@
 {
-  "blog":       "https://...",
-  "blog:dev":   "https://...",
-  "blog:7":     "https://...",
+  "version": "1.0.0",
   
-  "ecommerce":      "https://...",  
-  "ecommerce:food": "https://...",
+  "walls": {
+    "blog":     "https://...",
+    "blog:dev": "https://...",
+    "blog:7":   "https://...",
+
+    "ecommerce":      "https://...",  
+    "ecommerce:food": "https://...",
+
+    "laravel": "https://..."
+  },
   
-  "laravel":        "https://..."
+  "bricks": {
+  
+  }  
 }
