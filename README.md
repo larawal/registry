@@ -8,7 +8,7 @@ use GuzzleHttp\Client;
 
 $registry = json_decode((new Client)->get('https://larawal.github.io/registry/registry.json'), true);
 
-if (isset($registry['ecommerce'])) {
+if (isset($registry['walls']['ecommerce'])) {
   // Yet another e-commerce for my client
 }
 ```
