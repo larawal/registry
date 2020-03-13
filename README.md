@@ -1,4 +1,6 @@
-# registry
+# Larawal registry
+
+The offical list of managed brick by Larawal community
 
 ```php
 <?php
