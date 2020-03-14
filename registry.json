@@ -9,6 +9,8 @@
     "ecommerce":      "https://...",  
     "ecommerce:food": "https://...",
 
-    "laravel": "https://..."
+    "laravel":        "https://github.com/laravel/laravel/archive/v7.0.0.zip",
+    "laravel:7.0.0":  "https://github.com/laravel/laravel/archive/v7.0.0.zip",
+    "laravel:6.18.0": "https://github.com/laravel/laravel/archive/v6.18.0.zip"    
   }
 }
