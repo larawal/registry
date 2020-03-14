@@ -3,11 +3,8 @@
    
   "bricks": {
     "blog":     "https://github.com/larawal/blog/archive/master.zip",
-    "blog:dev": "https://...",
-    "blog:7":   "https://...",
 
-    "ecommerce":      "https://...",  
-    "ecommerce:food": "https://...",
+    "ecommerce":      "https://github.com/larawal/ecommerce/archive/master.zip",
 
     "laravel:7.0.0":  "https://github.com/laravel/laravel/archive/v7.0.0.zip",
     "laravel:6.18.0": "https://github.com/laravel/laravel/archive/v6.18.0.zip"    
