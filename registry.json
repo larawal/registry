@@ -2,7 +2,7 @@
   "version": "1.0.0",
    
   "bricks": {
-    "blog":     "https://...",
+    "blog":     "https://github.com/larawal/blog/archive/master.zip",
     "blog:dev": "https://...",
     "blog:7":   "https://...",
 
