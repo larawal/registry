@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   
-  "walls": {
+  "bricks": {
     "blog":     "https://...",
     "blog:dev": "https://...",
     "blog:7":   "https://...",
@@ -10,9 +10,5 @@
     "ecommerce:food": "https://...",
 
     "laravel": "https://..."
-  },
-  
-  "bricks": {
-  
-  }  
+  }
 }
