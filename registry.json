@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  
+   
   "bricks": {
     "blog":     "https://...",
     "blog:dev": "https://...",
@@ -9,8 +9,11 @@
     "ecommerce":      "https://...",  
     "ecommerce:food": "https://...",
 
-    "laravel":        "https://github.com/laravel/laravel/archive/v7.0.0.zip",
     "laravel:7.0.0":  "https://github.com/laravel/laravel/archive/v7.0.0.zip",
     "laravel:6.18.0": "https://github.com/laravel/laravel/archive/v6.18.0.zip"    
+  },
+  
+  "shortcuts": {
+    "laravel": "laravel:7.0.0"
   }
 }
